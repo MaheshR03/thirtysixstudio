@@ -100,13 +100,13 @@ function App() {
     <>
         <span
             ref={growingSpan}
-            className="growing rounded-full block fixed top-[15px] left-[5px] w-5 h-5"
+            className="growing rounded-full block fixed top-[17px] left-[5px] w-5 h-5"
         ></span>
         <div className="w-full relative min-h-screen font-['Helvetica_Now_Display']">
             {showCanvas && data[0].map((canvasdets, index) => <Canvas details={canvasdets} />)}
             <div className="w-full relative z-[1] h-screen">
                 <nav className="w-full p-4 flex justify-between z-50">
-                    <div ref={brandref} className="brand text-2xl font-md ml-7 cursor-pointer ml-3">Thirtysixstudio</div>
+                    <div ref={brandref} className="brand text-2xl font-md ml-7 cursor-pointer ml-4">Thirtysixstudio</div>
                     <div className="links flex gap-10 mr-20">
                         {[
                             "What we do",
