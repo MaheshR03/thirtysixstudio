@@ -106,7 +106,7 @@ function App() {
             {showCanvas && data[0].map((canvasdets, index) => <Canvas details={canvasdets} />)}
             <div className="w-full relative z-[1] h-screen">
                 <nav className="w-full p-4 flex justify-between z-50">
-                    <div ref={brandref} className="brand text-2xl font-md ml-7 cursor-pointer ml-2">Thirtysixstudio</div>
+                    <div ref={brandref} className="brand text-2xl font-md ml-7 cursor-pointer ml-1">Thirtysixstudio</div>
                     <div className="links flex gap-10 mr-20">
                         {[
                             "What we do",
