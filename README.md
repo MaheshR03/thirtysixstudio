@@ -1,6 +1,6 @@
 # ThirtySix Studio
 
-<h3>Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations.</h3>
+Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations.
 
 ## LIVE DEMO
 
