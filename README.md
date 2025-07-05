@@ -1,12 +1,32 @@
-# React + Vite
+# ThirtySix Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## SCREENSHOTS
 
-Currently, two official plugins are available:
+![Screenshot (33)](https://github.com/user-attachments/assets/057cbc68-353e-4c27-868d-cd1f0a64e297)
+![Screenshot (32)](https://github.com/user-attachments/assets/f23d1510-3be4-4d4e-ba73-7196068a3a23)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.
 
-## Expanding the ESLint configuration
+## INSTALLATION GUIDE
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+'''shell
+npx create-vite@latest
+'''
+'''shell
+npm i
+'''
+'''shell
+npm install -D tailwindcss@3 postcss autoprefixer
+'''
+'''shell
+npx tailwindcss init -p
+'''
+'''shell
+npm i gsap
+'''
+'''shell
+npm i @gsap/react
+'''
+'''shell
+npm install locomotive-scroll@beta
+'''
