@@ -1,10 +1,10 @@
 # ThirtySix Studio
 
-Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.
+<h3>Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.</h3>
 
 ## LIVE DEMO
 
-vercel : https://thirtysixstudio-one.vercel.app/
+Vercel : https://thirtysixstudio-one.vercel.app/
 
 ## SCREENSHOTS
 
@@ -14,6 +14,9 @@ vercel : https://thirtysixstudio-one.vercel.app/
 
 ## INSTALLATION GUIDE
 
+```shell
+git clone https://github.com/MaheshR03/thirtysixstudio
+```
 ```shell
 npx create-vite@latest
 ```
