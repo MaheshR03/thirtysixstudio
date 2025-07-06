@@ -38,3 +38,6 @@ npm i @gsap/react
 ```shell
 npm install locomotive-scroll@beta
 ```
+```shell
+npm run dev
+```
