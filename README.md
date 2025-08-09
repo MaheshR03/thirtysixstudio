@@ -67,6 +67,7 @@ thirtysixstudio/
 ## 🖼️ Screenshots
 
 ![Screenshot 1](./Screenshot%201.png)
+<br>
 ![Screenshot 2](./Screenshot%202.png)
 
 ---
@@ -79,4 +80,4 @@ Pull requests, issues, and suggestions are welcome! Feel free to open an issue o
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
