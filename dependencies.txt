@@ -1,0 +1,22 @@
+dependencies for ThirtySix Studio
+
+For reference, here are the JS dependencies:
+@gsap/react
+gsap
+locomotive-scroll
+react
+react-dom
+
+Dev dependencies (JS):
+@eslint/js
+@types/react
+@types/react-dom
+@vitejs/plugin-react
+autoprefixer
+eslint
+eslint-plugin-react-hooks
+eslint-plugin-react-refresh
+globals
+postcss
+tailwindcss
+vite

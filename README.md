@@ -36,6 +36,8 @@ thirtysixstudio/
 │   ├── main.jsx          # Entry point
 ├── index.html            # HTML template
 ├── package.json          # Project metadata & scripts
+├── dependencies.txt      # Project dependencies
+├── LICENSE               # Project license
 ├── tailwind.config.js    # TailwindCSS config
 ├── postcss.config.js     # PostCSS config
 ├── vite.config.js        # Vite config
@@ -67,6 +69,7 @@ thirtysixstudio/
 ## 🖼️ Screenshots
 
 ![Screenshot 1](./Screenshot%201.png)
+<br>
 <br>
 ![Screenshot 2](./Screenshot%202.png)
 
